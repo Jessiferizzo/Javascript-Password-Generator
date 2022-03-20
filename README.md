@@ -1,12 +1,10 @@
-<h1 align="center">Javascript-Password-Generator Weekly Challenge 2 </h1>
+<h1 align="left">Javascript-Password-Generator Weekly Challenge 2 </h1>
 
-<p align="left">Project User Story:AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security</p>
+<p align="left">Project goal: to create a password generator for an employee with a certain set of criteria matched to improve security by making a strong password</p>
 
 ## Links
 
-<p><a href="https://jessiferizzo.github.io/Javascript-Password-Generator/">Password Generator Site</a></p>
+<p><strong><a href="https://jessiferizzo.github.io/Javascript-Password-Generator/">Password Generator Site</a></strong></p>
 
 ## Screenshots
 
@@ -22,8 +20,8 @@ SO THAT I can create a strong password that provides greater security</p>
 
 **Jessica Sisavath**
 
-- [Profile]()
-- [Email](mailto:jsisavath@gmail?subject=Hi "Hi!")
+- [My GitHuB Profile](https://github.com/Jessiferizzo/Javascript-Password-Generator.git)
+- [Contact me by email](mailto:jsisavath@gmail?subject=Hi "Hi!")
 
 
 ## 🤝 Support
