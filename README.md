@@ -1,4 +1,4 @@
-<h1 align="left">Javascript-Password-Generator Weekly Challenge 2 </h1>
+<h1 align="left">Javascript-Password-Generator Weekly Challenge 3 </h1>
 
 <p align="left">Project goal: to create a password generator for an employee with a certain set of criteria matched to improve security by making a strong password</p>
 
