@@ -9,7 +9,7 @@ var symbol=["!","#","$","%","&","'","(",")","*","+","-",".","/",":",";","<","=",
 var userPassword= []
 
 //WHEN prompted for the length of the password, choose password length 8-128 characters)
-var passwordLength=parseInt(window.prompt("Please enter a number between 8-128 to choose the length of your password"));
+var passwordLength=parseInt(window.prompt("How many characters do you want your password to be? Please input a number between 8-128 to indicate how many characters."));
 
 if (passwordLength >= 128 || passwordLength <=8 ||typeof (passwordLength)!=="number") {
   window.alert("Make sure you choose a valid number between 8-128 only");
