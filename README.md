@@ -20,7 +20,7 @@
 
 **Jessica Sisavath**
 
-- [My GitHuB Profile](https://github.com/Jessiferizzo/Javascript-Password-Generator.git)
+- [My GitHuB Profile](https://github.com/Jessiferizzo)
 - [Contact me by email](mailto:jsisavath@gmail?subject=Hi "Hi!")
 
 
